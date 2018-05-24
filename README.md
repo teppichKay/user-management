@@ -1,7 +1,3 @@
-# Besedo Recruiting Assignment Solution
-
-### Ke Wang
-
 ## Build and run
 Run the API server:
 
@@ -35,6 +31,3 @@ To smoothly handle operations on different pages, states are structured as five 
 
 
 
-## Possible improvement
-
-Due to time limit, unit testing has not been fully implemented; page styles can be further improved.
